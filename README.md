@@ -16,5 +16,5 @@ If still some question or you wanna give your sugestion, don't be shine!
 <a href="#">
   <img height=165 width=49% src="https://github-readme-stats.vercel.app/api?username=LucasDiabloChan&show_icons=true&count_private=true&theme=tokyonight">
   <img height=163 width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDiabloChan&layout=compact&theme=tokyonight">
-  <!--<img height=200 width=100% align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Akrila&theme=omni">-->
+  <img height=200 width=100% align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AsherLucRen&theme=tokyonight">
 </a>
